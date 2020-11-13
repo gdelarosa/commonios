@@ -1,5 +1,6 @@
 Common job description keywords for iOS engineer roles in the US. Data was gathered from Glassdoor on 50 randomly selected job postings. Three years is the average for preferred experience. 
 
+![giphy](https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif)
 
 
 This does not include 🚫: 
@@ -7,7 +8,7 @@ This does not include 🚫:
 - Junior roles
 - "Bonus" or "Nice-to-have" qualifications
 
-**What you will do 💻 
+# WHAT YOU WILL DO 💻 
 
 | Most Common Keywords
 | ------------- | 
@@ -46,7 +47,7 @@ This does not include 🚫:
 | issues  |
 | swift  |
 
-**Looking for 🔎
+# LOOKING FOR 🔎
 
 | Most Common Keywords
 | ------------- | 
@@ -92,7 +93,7 @@ This does not include 🚫:
 | xcode  |
 | engineering  |
 
-**Technical 🧠
+# TECHNICAL 🧠
 
 | Most Common Keywords
 | ------------- | 
