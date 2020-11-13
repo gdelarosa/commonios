@@ -1,6 +1,10 @@
-Common job description keywords for iOS engineer roles in the US. Data was gathered from Glassdoor on 50 randomly selected job postings. Three years is the average for preferred experience. 
+Common job description keywords for iOS engineer roles. 
 
-![giphy](https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif)
+- All roles were based in the US
+- Data was gathered from Glassdoor on 50 randomly selected job postings. 
+- Three years is the average for preferred experience. 
+
+![giphy](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
 
 
 This does not include 🚫: 
